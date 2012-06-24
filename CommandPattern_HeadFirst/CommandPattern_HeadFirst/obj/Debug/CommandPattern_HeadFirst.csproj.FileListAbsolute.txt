@@ -1,0 +1,5 @@
+C:\MyStuff\WebDev\DesignPatterns\CommandPattern_HeadFirst\CommandPattern_HeadFirst\bin\Debug\CommandPattern_HeadFirst.exe
+C:\MyStuff\WebDev\DesignPatterns\CommandPattern_HeadFirst\CommandPattern_HeadFirst\bin\Debug\CommandPattern_HeadFirst.pdb
+C:\MyStuff\WebDev\DesignPatterns\CommandPattern_HeadFirst\CommandPattern_HeadFirst\obj\Debug\ResolveAssemblyReference.cache
+C:\MyStuff\WebDev\DesignPatterns\CommandPattern_HeadFirst\CommandPattern_HeadFirst\obj\Debug\CommandPattern_HeadFirst.exe
+C:\MyStuff\WebDev\DesignPatterns\CommandPattern_HeadFirst\CommandPattern_HeadFirst\obj\Debug\CommandPattern_HeadFirst.pdb

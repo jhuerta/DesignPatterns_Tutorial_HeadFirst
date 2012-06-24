@@ -1,0 +1,135 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="4903" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="4013" fromTop="19" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="4319" fromTop="23" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="2995" fromTop="20" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="1418" fromTop="20" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="577" fromTop="16" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="1275" fromTop="16" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="1275" fromTop="9" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="4985" fromTop="6" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="4344" fromTop="15" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="4344" fromTop="20" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="4344" fromTop="9" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="4344" fromTop="15" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="3356" fromTop="6" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="3570" fromTop="9" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="2840" fromTop="18" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="3136" fromTop="8" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="879" fromTop="9" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="5112" fromTop="21" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="2646" fromTop="18" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="2549" fromTop="16" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="3690" fromTop="19" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="2389" fromTop="10" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="1605" fromTop="11" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="1813" fromTop="11" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="4983" fromTop="16" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="1271" fromTop="20" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="2926" fromTop="18" />
+      <File id="7BEA40C1-D5D5-4370-8F1A-BD68F3D48267/f:Program.cs" caret="2490" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="interface" priority="0" />
+      <Item value="IDictionary" priority="0" />
+      <Item value="int" priority="3" />
+      <Item value="public" priority="9" />
+      <Item value="IService`0" priority="4" />
+      <Item value="String`0" priority="1" />
+      <Item value="id" priority="1" />
+      <Item value="this" priority="0" />
+      <Item value="return" priority="5" />
+      <Item value="class" priority="3" />
+      <Item value="string" priority="4" />
+      <Item value="hotelService" priority="1" />
+      <Item value="var" priority="5" />
+      <Item value="new" priority="6" />
+      <Item value="Customer`0" priority="0" />
+      <Item value="HotelService`0" priority="1" />
+      <Item value="Console`0" priority="4" />
+      <Item value="customer" priority="1" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="exception" priority="0" />
+      <Item value="RemoteHotelService`0" priority="1" />
+      <Item value="hotelRemoteService" priority="1" />
+      <Item value="try" priority="0" />
+      <Item value="NonSerialized" priority="0" />
+      <Item value="MarshalByRefObject`0" priority="2" />
+      <Item value="IHotelService`0" priority="3" />
+      <Item value="SlowHotelService`0" priority="1" />
+      <Item value="HotelServiceProxy`0" priority="1" />
+      <Item value="HotelService" priority="1" />
+      <Item value="realHotelService" priority="0" />
+      <Item value="thr" priority="0" />
+      <Item value="NotImplementedException`0" priority="0" />
+      <Item value="EnvironmentVariableTarget`0" priority="1" />
+      <Item value="ValueType`0" priority="0" />
+      <Item value="slowHotelService" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="ThreadStart" priority="0" />
+      <Item value="hotelDescription" priority="0" />
+      <Item value="delegate" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RemotePattern_HeadFirstDesignPatterns.Program+HotelService">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RemotePattern_HeadFirstDesignPatterns.IService">
+      <Item value="GetHotelDescription`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="6" />
+      <Item value="Read`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RemotePattern_HeadFirstDesignPatterns.Customer">
+      <Item value="HotelDescription`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RemotePattern_HeadFirstDesignPatterns.RemoteHotelService">
+      <Item value="Start`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Customer">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RemotePattern_HeadFirstDesignPatterns.IHotelService">
+      <Item value="GetHotelDescription`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start`0" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
