@@ -1,0 +1,111 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="2125" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="3718" fromTop="2" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="3465" fromTop="5" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="2884" fromTop="23" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="3094" fromTop="11" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="1436" fromTop="15" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="1580" fromTop="16" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="1371" fromTop="11" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="4036" fromTop="27" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="2792" fromTop="4" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="3653" fromTop="22" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="3333" fromTop="10" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="3556" fromTop="6" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="1324" fromTop="11" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="3238" fromTop="9" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="2932" fromTop="24" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="2476" fromTop="6" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="2335" fromTop="1" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="3799" fromTop="10" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="3920" fromTop="15" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="2728" fromTop="11" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="1641" fromTop="9" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="1890" fromTop="24" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="1824" fromTop="18" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="1357" fromTop="12" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="1762" fromTop="14" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="589" fromTop="20" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="1148" fromTop="12" />
+      <File id="D83C817E-02B0-4175-8F36-C5C6A178B98B/f:Program.cs" caret="2135" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="new" priority="7" />
+      <Item value="void" priority="1" />
+      <Item value="Console`0" priority="11" />
+      <Item value="coolDuck" priority="0" />
+      <Item value="Duck`0" priority="1" />
+      <Item value="duckWanabee" priority="1" />
+      <Item value="turkeyDuckWannaBe" priority="1" />
+      <Item value="this" priority="1" />
+      <Item value="private" priority="0" />
+      <Item value="TurkeyDuckAdapter`0" priority="0" />
+      <Item value="turkey" priority="5" />
+      <Item value="Client" priority="0" />
+      <Item value="cook" priority="2" />
+      <Item value="duck" priority="0" />
+      <Item value="return" priority="1" />
+      <Item value="wildDuck" priority="0" />
+      <Item value="WildDuck`0" priority="1" />
+      <Item value="Base`0" priority="1" />
+      <Item value="Base" priority="0" />
+      <Item value="Child`0" priority="0" />
+      <Item value="Child" priority="0" />
+      <Item value="myBaseAsChild" priority="0" />
+      <Item value="wildTurkeyIntoWildDuck" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="9" />
+      <Item value="ReadLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AdapterPattern_HeadFirstDesignPatterns.Duck">
+      <Item value="Walk`0" priority="1" />
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AdapterPattern_HeadFirstDesignPatterns.Turkey">
+      <Item value="Swim`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Void">
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AdapterPattern_HeadFirstDesignPatterns.Client">
+      <Item value="CookDuck`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AdapterPattern_HeadFirstDesignPatterns.WildDuck">
+      <Item value="Flavor`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AdapterPattern_HeadFirstDesignPatterns.Base">
+      <Item value="DoSomething`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AdapterPattern_HeadFirstDesignPatterns.WildTurkeyToWildDuck">
+      <Item value="Flavor`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,7 @@
+C:\MyStuff\WebDev\DesignPatterns\StatePattern_Server_\StatePattern_Server\StatePattern_Server\bin\Debug\StatePattern_Server.exe
+C:\MyStuff\WebDev\DesignPatterns\StatePattern_Server_\StatePattern_Server\StatePattern_Server\bin\Debug\StatePattern_Server.pdb
+C:\MyStuff\WebDev\DesignPatterns\StatePattern_Server_\StatePattern_Server\StatePattern_Server\bin\Debug\StatePattern_HeadFirstDesigns.exe
+C:\MyStuff\WebDev\DesignPatterns\StatePattern_Server_\StatePattern_Server\StatePattern_Server\bin\Debug\StatePattern_HeadFirstDesigns.pdb
+C:\MyStuff\WebDev\DesignPatterns\StatePattern_Server_\StatePattern_Server\StatePattern_Server\obj\Debug\ResolveAssemblyReference.cache
+C:\MyStuff\WebDev\DesignPatterns\StatePattern_Server_\StatePattern_Server\StatePattern_Server\obj\Debug\StatePattern_Server.exe
+C:\MyStuff\WebDev\DesignPatterns\StatePattern_Server_\StatePattern_Server\StatePattern_Server\obj\Debug\StatePattern_Server.pdb
