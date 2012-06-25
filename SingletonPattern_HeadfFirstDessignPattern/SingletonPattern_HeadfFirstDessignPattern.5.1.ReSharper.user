@@ -1,0 +1,78 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="74B12B6C-2301-4F96-A775-EF95720B3AE8/f:Program.cs" caret="1382" fromTop="3" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="74B12B6C-2301-4F96-A775-EF95720B3AE8/f:Program.cs" caret="2439" fromTop="26" />
+      <File id="74B12B6C-2301-4F96-A775-EF95720B3AE8/f:Program.cs" caret="2553" fromTop="23" />
+      <File id="74B12B6C-2301-4F96-A775-EF95720B3AE8/f:Program.cs" caret="2830" fromTop="27" />
+      <File id="74B12B6C-2301-4F96-A775-EF95720B3AE8/f:Program.cs" caret="2681" fromTop="24" />
+      <File id="74B12B6C-2301-4F96-A775-EF95720B3AE8/f:Program.cs" caret="2367" fromTop="25" />
+      <File id="74B12B6C-2301-4F96-A775-EF95720B3AE8/f:Program.cs" caret="2298" fromTop="27" />
+      <File id="74B12B6C-2301-4F96-A775-EF95720B3AE8/f:Program.cs" caret="2284" fromTop="25" />
+      <File id="74B12B6C-2301-4F96-A775-EF95720B3AE8/f:Program.cs" caret="1382" fromTop="23" />
+      <File id="74B12B6C-2301-4F96-A775-EF95720B3AE8/f:Program.cs" caret="1150" fromTop="21" />
+      <File id="74B12B6C-2301-4F96-A775-EF95720B3AE8/f:Program.cs" caret="838" fromTop="17" />
+      <File id="74B12B6C-2301-4F96-A775-EF95720B3AE8/f:Program.cs" caret="2086" fromTop="14" />
+      <File id="74B12B6C-2301-4F96-A775-EF95720B3AE8/f:Program.cs" caret="567" fromTop="15" />
+      <File id="74B12B6C-2301-4F96-A775-EF95720B3AE8/f:Program.cs" caret="1958" fromTop="20" />
+      <File id="74B12B6C-2301-4F96-A775-EF95720B3AE8/f:Program.cs" caret="1679" fromTop="17" />
+      <File id="74B12B6C-2301-4F96-A775-EF95720B3AE8/f:Program.cs" caret="1528" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="4" />
+      <Item value="class" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="ChocolateBoiler`0" priority="5" />
+      <Item value="return" priority="3" />
+      <Item value="if" priority="3" />
+      <Item value="_chocolateBoiler" priority="2" />
+      <Item value="new" priority="2" />
+      <Item value="ChocolateBoiler" priority="2" />
+      <Item value="boiled" priority="2" />
+      <Item value="true" priority="0" />
+      <Item value="void" priority="1" />
+      <Item value="EntryPointNotFoundException`0" priority="0" />
+      <Item value="empty" priority="4" />
+      <Item value="false" priority="2" />
+      <Item value="bool" priority="0" />
+      <Item value="Boil`0" priority="0" />
+      <Item value="var" priority="1" />
+      <Item value="boilerDarkChocolate" priority="1" />
+      <Item value="Console`0" priority="1" />
+      <Item value="boilerWhiteChocolate" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SingletonPattern_HeadfFirstDessignPattern.ChocolateBoiler">
+      <Item value="getInstance`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SingletonPattern_HeadfFirstDessignPattern.ChocolateBoiler">
+      <Item value="Fill`0" priority="1" />
+      <Item value="isEmpty`0" priority="0" />
+      <Item value="Drained`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

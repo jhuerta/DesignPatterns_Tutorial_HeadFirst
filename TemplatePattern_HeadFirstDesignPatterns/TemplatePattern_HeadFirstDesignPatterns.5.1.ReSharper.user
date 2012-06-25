@@ -1,0 +1,83 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="485" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="1519" fromTop="8" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="1669" fromTop="14" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="1307" fromTop="14" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="1307" fromTop="6" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="978" fromTop="15" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="1039" fromTop="17" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="696" fromTop="16" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="287" fromTop="12" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="2831" fromTop="14" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="2882" fromTop="18" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="2815" fromTop="22" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="2562" fromTop="11" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="2604" fromTop="15" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="2852" fromTop="18" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="3247" fromTop="25" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="2875" fromTop="15" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="3073" fromTop="13" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="1365" fromTop="11" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="1923" fromTop="18" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="1726" fromTop="20" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="843" fromTop="0" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="1331" fromTop="25" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="583" fromTop="6" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="2107" fromTop="5" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="2424" fromTop="19" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="2231" fromTop="10" />
+      <File id="9D642098-4EE2-4A57-AC26-684B4A1E32EE/f:Program.cs" caret="485" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="var" priority="2" />
+      <Item value="new" priority="3" />
+      <Item value="coffeMaker" priority="0" />
+      <Item value="teaMaker" priority="0" />
+      <Item value="void" priority="1" />
+      <Item value="IDrinkRecipe`0" priority="0" />
+      <Item value="Console`0" priority="7" />
+      <Item value="abstract" priority="1" />
+      <Item value="Base64FormattingOptions`0" priority="0" />
+      <Item value="public" priority="2" />
+      <Item value="DrinkRecipe`0" priority="0" />
+      <Item value="Double`0" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="MyClass`0" priority="0" />
+      <Item value="MySealedClass`0" priority="0" />
+      <Item value="myClass" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="5" />
+      <Item value="Write`0" priority="0" />
+      <Item value="ReadLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TemplatePattern_HeadFirstDesignPatterns.MySealedClass">
+      <Item value="TemplateMethod`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

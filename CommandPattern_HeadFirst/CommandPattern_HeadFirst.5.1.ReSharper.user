@@ -1,0 +1,124 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="3118" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="848" fromTop="8" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="4425" fromTop="21" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="2161" fromTop="27" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="1656" fromTop="21" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="5119" fromTop="16" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="3774" fromTop="4" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="3664" fromTop="2" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="2272" fromTop="6" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="3272" fromTop="21" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="6181" fromTop="8" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="3486" fromTop="24" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="8985" fromTop="9" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="6588" fromTop="6" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="3932" fromTop="11" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="7053" fromTop="15" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="7513" fromTop="14" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="7948" fromTop="12" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="8413" fromTop="12" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="8878" fromTop="18" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="1235" fromTop="15" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="5883" fromTop="22" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="4877" fromTop="23" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="5104" fromTop="27" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="5413" fromTop="18" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="4336" fromTop="6" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="5621" fromTop="27" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="2683" fromTop="8" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="3057" fromTop="21" />
+      <File id="72E8C32F-B2E1-41B9-B2B1-45775E6726BC/f:Program.cs" caret="5980" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="TV`0" priority="0" />
+      <Item value="new" priority="6" />
+      <Item value="TV" priority="0" />
+      <Item value="Fan`0" priority="0" />
+      <Item value="Fan" priority="0" />
+      <Item value="Video`0" priority="0" />
+      <Item value="Video" priority="0" />
+      <Item value="commandOn" priority="0" />
+      <Item value="List" priority="2" />
+      <Item value="CommandObject`0" priority="5" />
+      <Item value="List&lt;CommandObject&gt;" priority="2" />
+      <Item value="commandOnList" priority="4" />
+      <Item value="Console`0" priority="6" />
+      <Item value="commandOnPosition" priority="1" />
+      <Item value="if" priority="0" />
+      <Item value="commandList" priority="1" />
+      <Item value="return" priority="4" />
+      <Item value="commandPosition" priority="0" />
+      <Item value="commandOffPosition" priority="0" />
+      <Item value="private" priority="2" />
+      <Item value="class" priority="0" />
+      <Item value="NullCommand`0" priority="1" />
+      <Item value="foreach" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="controller" priority="2" />
+      <Item value="String`0" priority="0" />
+      <Item value="output" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="lastPositionCalled" priority="0" />
+      <Item value="lastCommandList" priority="0" />
+      <Item value="lastCommand" priority="0" />
+      <Item value="nullCommand" priority="3" />
+      <Item value="lifoCommandList" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CommandPattern_HeadFirst.CommandObject">
+      <Item value="Equals`0" priority="0" />
+      <Item value="Execute`0" priority="5" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="Undo`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="3" />
+      <Item value="Add`0" priority="0" />
+      <Item value="Last`1" priority="2" />
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Name" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CommandPattern_HeadFirst.VideoActionOn">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CommandPattern_HeadFirst.RemoteController">
+      <Item value="Undo`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
